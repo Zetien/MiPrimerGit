@@ -4,6 +4,7 @@ a=0
 b=1
 c=0
 contador=1
+print('')
 while contador<=n:
     print(c)
     contador+=1
